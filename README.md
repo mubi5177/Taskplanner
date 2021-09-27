@@ -1,2 +1,7 @@
-# Taskplanner
-Task Planner in which you can add manage delete tasks it is more of Like TODO list created in dart with Love &lt;3
+
+👋 Hi, I’m Mubeen Ul Haq
+
+    👀 I’m interested in Flutter & Dart
+    🌱 I’m currently learning Flutter & Dart and laravel as backend
+    💞️ I’m looking to collaborate on Flutter Projects
+    📫 How to reach me Contact me @ haqmubeenul91@gmail.com
